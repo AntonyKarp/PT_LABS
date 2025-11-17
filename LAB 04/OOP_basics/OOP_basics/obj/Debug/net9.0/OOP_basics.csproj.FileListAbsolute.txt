@@ -1,0 +1,14 @@
+D:\C project\LAB4\OOP_basics\OOP_basics\bin\Debug\net9.0\OOP_basics.exe
+D:\C project\LAB4\OOP_basics\OOP_basics\bin\Debug\net9.0\OOP_basics.deps.json
+D:\C project\LAB4\OOP_basics\OOP_basics\bin\Debug\net9.0\OOP_basics.runtimeconfig.json
+D:\C project\LAB4\OOP_basics\OOP_basics\bin\Debug\net9.0\OOP_basics.dll
+D:\C project\LAB4\OOP_basics\OOP_basics\bin\Debug\net9.0\OOP_basics.pdb
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.AssemblyInfoInputs.cache
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.AssemblyInfo.cs
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.csproj.CoreCompileInputs.cache
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.dll
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\refint\OOP_basics.dll
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.pdb
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\OOP_basics.genruntimeconfig.cache
+D:\C project\LAB4\OOP_basics\OOP_basics\obj\Debug\net9.0\ref\OOP_basics.dll

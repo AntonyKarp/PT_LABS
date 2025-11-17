@@ -1,0 +1,14 @@
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.exe
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.deps.json
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.runtimeconfig.json
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.dll
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.pdb
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.AssemblyInfoInputs.cache
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.AssemblyInfo.cs
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.csproj.CoreCompileInputs.cache
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.dll
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\refint\OOP_SAMPLE.dll
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.pdb
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.genruntimeconfig.cache
+D:\C project\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net9.0\ref\OOP_SAMPLE.dll
