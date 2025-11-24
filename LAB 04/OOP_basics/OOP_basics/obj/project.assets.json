@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C project\\LAB4\\OOP_basics\\OOP_basics\\OOP_basics.csproj",
+      "projectUniqueName": "D:\\REPOS\\PT_LABS\\LAB 04\\OOP_basics\\OOP_basics\\OOP_basics.csproj",
       "projectName": "OOP_basics",
-      "projectPath": "D:\\C project\\LAB4\\OOP_basics\\OOP_basics\\OOP_basics.csproj",
+      "projectPath": "D:\\REPOS\\PT_LABS\\LAB 04\\OOP_basics\\OOP_basics\\OOP_basics.csproj",
       "packagesPath": "C:\\Users\\karpu\\.nuget\\packages\\",
-      "outputPath": "D:\\C project\\LAB4\\OOP_basics\\OOP_basics\\obj\\",
+      "outputPath": "D:\\REPOS\\PT_LABS\\LAB 04\\OOP_basics\\OOP_basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karpu\\AppData\\Roaming\\NuGet\\NuGet.Config"

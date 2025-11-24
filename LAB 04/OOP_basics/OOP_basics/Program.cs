@@ -1,36 +1,29 @@
-﻿namespace OOP_SAMPLE;
-class Program
+﻿using System;
+
+namespace OOP_Basics
 {
-    static void Main(string[] args)
+    class Program
     {
-        try
+        static void Main(string[] args)
         {
-            Product p1 = new Product("Ноутбук", 1200, 3);
-            p1.PrintInfo();
-
-            Product p2 = new Product("Мышка", 25.5, 10);
-            p2.PrintInfo();
-
-            // Проверка валидации
-            Product p3 = new Product("Клавиатура", -100, 5);
-            p3.PrintInfo();
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine($"Ошибка: {ex.Message}");
+            ProcessProduct("Ноутбук", 1200, 3);
+            ProcessProduct("Мышка", 25.5, 10);
+            ProcessProduct("Клавиатура", -100, 5);
+            ProcessProduct("Монитор", 300, 2);
         }
 
-        try
+        static void ProcessProduct(string name, double price, int quantity)
         {
-            Product p4 = new Product("Монитор", 300, 2);
-            p4.PrintInfo();
-
-            // Попытка задания некорректного количества
-            p4.Quantity = -5;
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine($"Ошибка: {ex.Message}");
+            try
+            {
+                Console.WriteLine($"Проверка товара: {name}");
+                Product p = new Product(name, price, quantity);
+                p.PrintInfo();
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine($"ОШИБКА: {ex.Message}");
+            }
         }
     }
 }

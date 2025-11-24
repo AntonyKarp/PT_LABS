@@ -1,4 +1,6 @@
-namespace OOP_SAMPLE
+using System;
+
+namespace OOP_Basics
 {
     public class Product
     {
@@ -20,7 +22,6 @@ namespace OOP_SAMPLE
             {
                 if (string.IsNullOrWhiteSpace(value))
                     throw new ArgumentException("Название товара не может быть пустым.");
-
                 name = value;
             }
         }
@@ -32,7 +33,6 @@ namespace OOP_SAMPLE
             {
                 if (value < 0)
                     throw new ArgumentException("Цена не может быть отрицательной.");
-
                 price = value;
             }
         }
@@ -44,7 +44,6 @@ namespace OOP_SAMPLE
             {
                 if (value < 0)
                     throw new ArgumentException("Количество не может быть отрицательным.");
-
                 quantity = value;
             }
         }
