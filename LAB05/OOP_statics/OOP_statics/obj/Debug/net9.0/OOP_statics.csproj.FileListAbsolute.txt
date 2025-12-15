@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\bin\Debug\net9.0\OOP_statics.exe
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\bin\Debug\net9.0\OOP_statics.deps.json
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\bin\Debug\net9.0\OOP_statics.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\bin\Debug\net9.0\OOP_statics.dll
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\bin\Debug\net9.0\OOP_statics.pdb
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.sourcelink.json
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.dll
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\refint\OOP_statics.dll
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.pdb
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\OOP_statics.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB05\OOP_statics\OOP_statics\obj\Debug\net9.0\ref\OOP_statics.dll
