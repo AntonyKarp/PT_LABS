@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\bin\Debug\net9.0\OOP_Rational.exe
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\bin\Debug\net9.0\OOP_Rational.deps.json
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\bin\Debug\net9.0\OOP_Rational.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\bin\Debug\net9.0\OOP_Rational.dll
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\bin\Debug\net9.0\OOP_Rational.pdb
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.sourcelink.json
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.dll
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\refint\OOP_Rational.dll
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.pdb
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\OOP_Rational.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB05\OOP_Rational\obj\Debug\net9.0\ref\OOP_Rational.dll
