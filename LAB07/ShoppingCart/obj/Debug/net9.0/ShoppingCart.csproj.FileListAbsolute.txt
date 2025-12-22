@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\bin\Debug\net9.0\ShoppingCart.exe
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\bin\Debug\net9.0\ShoppingCart.deps.json
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\bin\Debug\net9.0\ShoppingCart.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\bin\Debug\net9.0\ShoppingCart.dll
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\bin\Debug\net9.0\ShoppingCart.pdb
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.sourcelink.json
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.dll
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\refint\ShoppingCart.dll
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.pdb
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ShoppingCart.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB07\ShoppingCart\obj\Debug\net9.0\ref\ShoppingCart.dll

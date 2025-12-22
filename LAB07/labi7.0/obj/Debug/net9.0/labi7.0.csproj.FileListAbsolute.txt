@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB07\labi7.0\bin\Debug\net9.0\labi7.0.exe
+D:\REPOS\PT_LABS\LAB07\labi7.0\bin\Debug\net9.0\labi7.0.deps.json
+D:\REPOS\PT_LABS\LAB07\labi7.0\bin\Debug\net9.0\labi7.0.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB07\labi7.0\bin\Debug\net9.0\labi7.0.dll
+D:\REPOS\PT_LABS\LAB07\labi7.0\bin\Debug\net9.0\labi7.0.pdb
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.sourcelink.json
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.dll
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\refint\labi7.0.dll
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.pdb
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\labi7.0.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB07\labi7.0\obj\Debug\net9.0\ref\labi7.0.dll
