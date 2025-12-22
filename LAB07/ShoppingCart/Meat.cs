@@ -1,20 +1,25 @@
 namespace ShoppingCart;
 
-public enum MeatKind { Beef, Pork, Chicken }
+public enum MeatType { Beef, Pork, Chicken }
 
 public class Meat : Product, IDiscountable
 {
-    public MeatKind Kind { get; set; }
+    public MeatType Type { get; set; }
 
-    public bool IsFrozen { get; set; }
+    public string Cut { get; set; }
 
-    public Meat(string title, double pricePerKg, double amountKg, DateTime expirationDate, bool hasDefect, MeatKind kind, bool isFrozen)
-        : base(title, pricePerKg, amountKg, false, expirationDate, hasDefect)
+    public double FatPercent { get; set; }
+
+    public Meat(string name, double pricePerKg, double amountKg, DateTime expirationDate, bool hasDefect,
+                MeatType type, string cut, double fatPercent)
+        : base(name, pricePerKg, amountKg, false, expirationDate, hasDefect)
     {
-        Kind = kind;
-        IsFrozen = isFrozen;
+        ArgumentException.ThrowIfNullOrWhiteSpace(cut, nameof(cut));
+        Type = type;
+        Cut = cut.Trim();
+        FatPercent = fatPercent;
     }
 
     public override string ToString()
-        => base.ToString() + $", Вид={Kind}, Заморозка={IsFrozen}";
+        => base.ToString() + $", Тип={Type}, ЧастЬ={Cut}, Жирность={FatPercent:F1}%";
 }

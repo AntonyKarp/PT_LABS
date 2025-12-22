@@ -2,18 +2,18 @@ namespace ShoppingCart;
 
 public abstract class Product
 {
-    private string title;
+    private string name;
     private double pricePerKg;
     private double amountKg;
     private DateTime expirationDate;
 
-    public string Title
+    public string Name
     {
-        get => title;
+        get => name;
         set
         {
-            ArgumentException.ThrowIfNullOrWhiteSpace(value, nameof(Title));
-            title = value.Trim();
+            ArgumentException.ThrowIfNullOrWhiteSpace(value, nameof(Name));
+            name = value.Trim();
         }
     }
 
@@ -51,9 +51,9 @@ public abstract class Product
 
     public double TotalCost => PricePerKg * AmountKg;
 
-    protected Product(string title, double pricePerKg, double amountKg, bool isVegeterian, DateTime expirationDate, bool hasDefect)
+    protected Product(string name, double pricePerKg, double amountKg, bool isVegeterian, DateTime expirationDate, bool hasDefect)
     {
-        Title = title;
+        Name = name;
         PricePerKg = pricePerKg;
         AmountKg = amountKg;
         IsVegeterian = isVegeterian;
@@ -62,6 +62,6 @@ public abstract class Product
     }
 
     public override string ToString()
-        => $"{GetType().Name}: {Title}, {AmountKg:F2} кг x {PricePerKg:F2} = {TotalCost:F2}, " +
-           $"Вегетарианский={IsVegeterian}, Дефект={HasDefect}, Срок={ExpirationDate:dd.MM.yyyy} (дней: {DaysToExpire})";
+        => $"{GetType().Name}: {Name}, {AmountKg:F2} кг x {PricePerKg:F2} = {TotalCost:F2}, " +
+           $"Вегетарианский={IsVegeterian}, Дефект={HasDefect}, Годен до {ExpirationDate:dd.MM.yyyy} (дней: {DaysToExpire})";
 }
