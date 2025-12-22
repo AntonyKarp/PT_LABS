@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("labi7.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc3f3729c6f5cd9dddbaedc5fc5ef5fcce75e51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e037a3bba55500b399a039bf6047c8b37325b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("labi7.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("labi7.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
